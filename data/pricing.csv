@@ -11,3 +11,6 @@ scrape_date,platform,market,currency,tier_name,fee_amount,fee_period,prop_value_
 2026-03-23,domain_au,AU,AUD,Standard,699,per_listing,,,private seller,private seller rate only; agent pricing negotiated
 2026-03-23,domain_au,AU,AUD,Premium,799,per_listing,,,private seller,private seller rate only; agent pricing negotiated
 2026-03-23,domain_au,AU,AUD,Deluxe,969,per_listing,,,private seller,private seller rate only; agent pricing negotiated
+2026-03-30,domain_au,AU,AUD,Standard,699,per_listing,,,private seller,private seller rate only; agent pricing negotiated
+2026-03-30,domain_au,AU,AUD,Premium,799,per_listing,,,private seller,private seller rate only; agent pricing negotiated
+2026-03-30,domain_au,AU,AUD,Deluxe,969,per_listing,,,private seller,private seller rate only; agent pricing negotiated
